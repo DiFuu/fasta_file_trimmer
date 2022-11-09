@@ -1,6 +1,6 @@
 # fasta_file_trimmer
 
-The program must incorporate an argument parser that accepts:
+The program incorporates an argument parser that accepts:
 
 - An input file
 - Number of nucleotides to remove from the 5' (from the beginning of the sequence)
