@@ -1,3 +1,8 @@
+#!/usr/bin/python3.9
+# -*- coding: utf-8 -*-
+
+#fasta file trimmer
+
 #we import the necessary modules
 import argparse
 from Bio import SeqIO
